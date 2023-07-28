@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "item/papers/paper_g"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "item/papers/paper_c"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300
+            },
+            "model": "item/papers/paper_p"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400
+            },
+            "model": "item/papers/paper_magic"
+        }
+    ]
+}

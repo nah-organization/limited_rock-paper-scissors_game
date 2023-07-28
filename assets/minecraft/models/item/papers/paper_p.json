@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/papers/card",
+    "textures": {
+        "texture": "minecraft:item/papers/paper_p"
+    }
+}

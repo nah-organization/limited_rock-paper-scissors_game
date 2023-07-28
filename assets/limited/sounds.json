@@ -1,0 +1,14 @@
+{
+	"description": {
+		"replace": true,
+		"sounds": [
+			"limited:description"
+		]
+	},
+	"message4": {
+		"replace": true,
+		"sounds": [
+			"limited:message4"
+		]
+	}
+}
